@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YourFlashApp.Models.Category">
+    <Position X="10" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Models.Item">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAAAABBAAAAAAAAAAAABABAAAAAAAAKAA=</HashCode>
+      <FileName>Models\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Program">
+    <Position X="2.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.FlashcardsForm">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEBAACAEEAAAAAiAAAACKIAAQAAAAEAAAQAAAAA=</HashCode>
+      <FileName>Views\FlashcardsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.HomeForm">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAABAAQGAAAFAAAQiAAIACAAIAAAAAIAAAAQBAAAA=</HashCode>
+      <FileName>Views\HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.MenuStripClass">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAA=</HashCode>
+      <FileName>Views\MenuStripClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.NewCategoryForm">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACgAACAAABgAAEKAAAASAACgAAgAAAAACAAAAAA=</HashCode>
+      <FileName>Views\NewCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.NewWordForm">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBAAAEiAAAASAACAIBgQgAAABAAAAQE=</HashCode>
+      <FileName>Views\NewWordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.StudyForm">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAQGAhAChARRCIABAACAgAAAAAQCAAAA=</HashCode>
+      <FileName>Views\StudyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Properties.Resources">
+    <Position X="8.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Services.DataStoreCategories" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAgCABAAAABAAAAAAEAAAAAQAAA=</HashCode>
+      <FileName>Services\DataStoreCategories.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YourFlashApp.Services.DataStoreItems" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAgCABAAAABAAAAAAEAAAAAQAAA=</HashCode>
+      <FileName>Services\DataStoreItems.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YourFlash.ViewModels.BaseViewModel">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\BaseViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YourFlash.ViewModels.HomeViewModel">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAgAAABAAAAAAAAAAAEBAAAAIAA=</HashCode>
+      <FileName>ViewModels\HomeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.ViewModels.FlashCardDetailViewModel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAACAAIgAgQBAAAAAAAAAAAAAAAAAAAIAAAEKAQ=</HashCode>
+      <FileName>ViewModels\FlashCardDetailViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.ViewModels.FlashCardsViewModel">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIAgAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAAAIAQ=</HashCode>
+      <FileName>ViewModels\FlashCardsYiewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.ViewModels.NewCategoryViewModel">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAIAAAAAAAQAAAAAAAQAAAAEAACAAAAAgAAAAAQ=</HashCode>
+      <FileName>ViewModels\NewCategoryViewModel .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.ViewModels.NewWordViewModel">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAACAAIAAgQBAAAAAAAAAAAAAAAAAAAIAAAEKAQ=</HashCode>
+      <FileName>ViewModels\NewWordViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.ViewModels.StudyViewModel">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAIAAFgwAIAQAAAAAQBAAAAAAAAAAIAA=</HashCode>
+      <FileName>ViewModels\StudyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Views.FlashCardDetail">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAEBAAAEzAAAASAACAABgQgEAABAAAAAA=</HashCode>
+      <FileName>Views\FlashCardDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourFlashApp.Views.MyMessageBox">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAABAAAASAEAACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MyMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="YourFlashApp.Services.IDataStore&lt;T&gt;">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAABAAAAAAEAAAAAQAAA=</HashCode>
+      <FileName>Services\IDataStore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1 @@
+{"Item_Id":"18fc02fb-6b4a-4953-b582-5668d66c42d0","English":"First","Ukrainian":"Перший","Example":"This the first your word","Category":"Number","IsLerned":false,"IsRemembered":false,"Date":"02.11.2021 22:03:06"}
